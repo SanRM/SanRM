@@ -1,15 +1,10 @@
-## ### Hi there, my name is Santiago Rodriguez Morales👋
+Hi there, my name is Santiago Rodriguez Morales👋
 
  🐍 I’m currently learning python  
   
-
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -19,8 +14,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -34,12 +27,9 @@
 
 </td><td valign="top" width="33%">
 
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -48,31 +38,3 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
