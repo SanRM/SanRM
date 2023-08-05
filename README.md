@@ -8,8 +8,8 @@ Here you can find some repositories in which I have worked.
 
 |        Skill           |                                  Badges                                      |
 |   :----------------:   |          :---------------------------------------------------:               |
-|     **`Frontend`**     |  <img src="https://skillicons.dev/icons?i=html,css,illustrator" width="200"> |
-|     **`Backend`**      |  <img src="https://skillicons.dev/icons?i=python,bash,php" width="200">      |
+|     **`Frontend`**     |  <img src="https://skillicons.dev/icons?i=html,css,js,illustrator" width="200"> |
+|     **`Backend`**      |  <img src="https://skillicons.dev/icons?i=python,bash,php,java,dart,flutter" width="200">      |
 
 ## Contact
 
